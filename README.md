@@ -131,6 +131,7 @@
 [相关开源项目](content/edge-computing-relative-technology/sdrtn/articles/sdrtn-book.md)
 
 ## WASM
+[WASM资料汇总](content/edge-computing-relative-technology/wasm/wasm.md)
 
 [相关文章](content/edge-computing-relative-technology/wasm/articles/wasm-article.md)
 
