@@ -30,7 +30,7 @@
 
 [ETSI-MEC-Edge-Platform-applitcation-enablement](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/ETSI-MEC-Edge-Platform-applitcation-enablement.pdf)
 
-[中兴通讯Common-Edge边缘计算白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/中兴通讯 Common Edge 边缘计算白皮书.pdf)
+[中兴通讯Common-Edge边缘计算白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/中兴通讯Common-Edge边缘计算白皮书.pdf)
 
 [中国电信MEC最佳实践白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/中国电信MEC最佳实践白皮书.pdf)
 
