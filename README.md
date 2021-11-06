@@ -26,11 +26,11 @@
 
 [ETSI-MEC-framework](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/ETSI-MEC-framework.pdf)
 
-[MEC in 5G net](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/MEC in 5G net.pdf)
+[MEC-in-5G-networks](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/MEC-in-5G-networks.pdf)
 
 [ETSI-MEC-Edge-Platform-applitcation-enablement](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/ETSI-MEC-Edge-Platform-applitcation-enablement.pdf)
 
-[中兴通讯 Common Edge 边缘计算白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/中兴通讯 Common Edge 边缘计算白皮书.pdf)
+[中兴通讯Common-Edge边缘计算白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/中兴通讯 Common Edge 边缘计算白皮书.pdf)
 
 [中国电信MEC最佳实践白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/MEC/中国电信MEC最佳实践白皮书.pdf)
 
@@ -42,7 +42,7 @@
 
 [中国移动边缘计算技术白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/中国移动边缘计算技术白皮书.pdf)
 
-[中国联通5G MEC2白皮书2020](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/中国联通5G MEC2白皮书2020.pdf)
+[中国联通5G-MEC2白皮书2020](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/中国联通5G-MEC2白皮书2020.pdf)
 
 [运营商边缘计算网络技术白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/运营商边缘计算网络技术白皮书.pdf)
 
@@ -50,49 +50,49 @@
 
 [Edge-Native-技术架构白皮书-1.0]()
 
-[Towards-Scalable-Edge-Native-Applications](https://12factor.net/)
+[Towards-Scalable-Edge-Native-Applications](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/edge-and-cloud-collaboration/Towards-Scalable-Edge-Native-Applications.pdf)
 
-[5G时代工业互联网边缘计算网络白皮书](https://12factor.net/)
+[5G时代工业互联网边缘计算网络白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/edge-and-cloud-collaboration/5G%E6%97%B6%E4%BB%A3%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E7%BD%91%E7%BB%9C%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
-[工业互联网边缘计算节点白皮书1.0](https://12factor.net/)
+[工业互联网边缘计算节点白皮书1.0](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/edge-and-cloud-collaboration/%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E8%8A%82%E7%82%B9%E7%99%BD%E7%9A%AE%E4%B9%A61.0.pdf)
 
-[边缘计算IT基础设施白皮书1.0](https://12factor.net/)
+[边缘计算IT基础设施白皮书1.0](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/edge-and-cloud-collaboration/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97IT%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%99%BD%E7%9A%AE%E4%B9%A61.0.pdf)
 
-[边缘计算与云计算协同白皮书2.0](https://12factor.net/)
+[边缘计算与云计算协同白皮书2.0](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/edge-and-cloud-collaboration/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E4%B8%8E%E4%BA%91%E8%AE%A1%E7%AE%97%E5%8D%8F%E5%90%8C%E7%99%BD%E7%9A%AE%E4%B9%A62.0.pdf)
 
-[边缘计算安全白皮书](https://12factor.net/)
+[边缘计算安全白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/edge-and-cloud-collaboration/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 ## 算力网络
 
-[中国移动算力网络白皮书](https://12factor.net/)
+[中国移动算力网络白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/computing-network/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E7%AE%97%E5%8A%9B%E7%BD%91%E7%BB%9C%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
-[云网融合向算网一体技术演进](https://12factor.net/)
+[云网融合向算网一体技术演进](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/computing-network/%E4%BA%91%E7%BD%91%E8%9E%8D%E5%90%88%E5%90%91%E7%AE%97%E7%BD%91%E4%B8%80%E4%BD%93%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B.pdf)
 
-[算力网络白皮书-打印版-加水印](https://12factor.net/)
+[算力网络白皮书-打印版-加水印](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/computing-network/%E7%AE%97%E5%8A%9B%E7%BD%91%E7%BB%9C%E7%99%BD%E7%9A%AE%E4%B9%A6-%E6%89%93%E5%8D%B0%E7%89%88-%E5%8A%A0%E6%B0%B4%E5%8D%B0.pdf)
 
-[中国电信雷波：面向工业互联网的边缘计算网络与算力网络](https://12factor.net/)
+[中国电信雷波：面向工业互联网的边缘计算网络与算力网络](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/computing-network/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E9%9B%B7%E6%B3%A2%EF%BC%9A%E9%9D%A2%E5%90%91%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%AE%97%E5%8A%9B%E7%BD%91%E7%BB%9C--20201208.pdf)
 
 ## 其他相关
 
-[中国信通院2020大数据白皮书](https://12factor.net/)
+[中国信通院2020大数据白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/others/%E4%B8%AD%E5%9B%BD%E4%BF%A1%E9%80%9A%E9%99%A22020%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
-[云游戏白皮书](https://12factor.net/)
+[云游戏白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/others/%E4%BA%91%E6%B8%B8%E6%88%8F%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
-[华为-Cloud-VR白皮书](https://12factor.net/)
+[华为-Cloud-VR白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/others/%E5%8D%8E%E4%B8%BA-Cloud-VR%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
-[华为-智能汽车解决方案2030](https://12factor.net/)
+[华为-智能汽车解决方案2030](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/others/%E5%8D%8E%E4%B8%BA-%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%882030.pdf)
 
-[华为数据中心自动驾驶网络白皮书](https://12factor.net/)
+[华为数据中心自动驾驶网络白皮书](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-white-paper/others/%E5%8D%8E%E4%B8%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%BD%91%E7%BB%9C%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 # 边缘计算行业研究报告
 
-[2020年边缘计算产业前沿研究报告](https://12factor.net/)
+[2020年边缘计算产业前沿研究报告](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-industry-research-report/2020%E5%B9%B4%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E4%BA%A7%E4%B8%9A%E5%89%8D%E6%B2%BF%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
-[2021年中国边缘云计算行业展望报告](https://12factor.net/)
+[2021年中国边缘云计算行业展望报告](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-industry-research-report/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%BE%B9%E7%BC%98%E4%BA%91%E8%AE%A1%E7%AE%97%E8%A1%8C%E4%B8%9A%E5%B1%95%E6%9C%9B%E6%8A%A5%E5%91%8A.pdf)
 
-[中国边缘计算研究报告](https://12factor.net/)
+[中国边缘计算研究报告](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-industry-research-report/%E4%B8%AD%E5%9B%BD%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
-[边缘计算研究报告](https://12factor.net/)
+[边缘计算研究报告](https://github.com/bitocean1024/awesome-edge-computing-books/blob/master/content/edge-computing-industry-research-report/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
 # 边缘计算相关开源项目
 
