@@ -1,4 +1,8 @@
 # awesome-edge-computing
+<head>
+<meta name="google-site-verification" content="Po1Adk9CGHkyHFw-YqhuRm4uqP0l6E3lIdAHZRet52o" />
+</head>
+
 
 # 为什么有这个项目
 
