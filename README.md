@@ -4,10 +4,6 @@
 
 笔者研究边缘计算有一段时间了，坚信边缘计算在未来3-5年会有大规模的应用，原因是云游戏，VR，互动直播等强交互的场景要求大带宽和极低的时延，这个是当前中心云无法满足的，同时由于终端空间受限导致算力没法灵活的扩展，边缘计算恰恰满足了这些需求，把算力放到离产生数据近的地方，就近处理数据，人的体验要求人工智能的算力不能与感知相隔太远，人的需求决定了算力要灵活扩展，于是边缘计算是必然会出现的，下面汇聚了本人在研究边缘计算的过程中参考的资料，希望对同样研究边缘计算的同学有帮助
 
-# 笔者的公众号
-车辆网云平台技术
-<img alt="README-0168f2b5.png" src="assets/README-0168f2b5.png" width="" height="" >
-
 # 边缘计算白皮书与调研报告
 
 ## 5G
@@ -140,12 +136,6 @@
 
 ## WASM
 [WASM资料汇总](content/edge-computing-relative-technology/wasm/wasm.md)
-
-[相关文章](content/edge-computing-relative-technology/wasm/articles/wasm-article.md)
-
-[相关书籍](content/edge-computing-relative-technology/wasm/articles/wasm-book.md)
-
-[相关开源项目](content/edge-computing-relative-technology/wasm/articles/wasm-book.md)
 
 ## Serverless
 
